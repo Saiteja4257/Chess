@@ -51,7 +51,7 @@ const Login = () => {
             </form><br></br>
             <p  className="login-footer">Don't have an account? <Link className="login-link" to="/register">Register here</Link></p>
             </div>
-            <img className="lck" src="https://res.cloudinary.com/dlbc9t2ft/image/upload/v1744737449/kingdom2_zhaxof.png" alt=""></img>
+            <img className="lck" src="https://res.cloudinary.com/dlbc9t2ft/image/upload/f_auto,q_auto/v1744737449/kingdom2_zhaxof.png" alt=""></img>
         </div>
     );
 };
