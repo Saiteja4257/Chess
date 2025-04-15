@@ -112,7 +112,7 @@ const HomePage = () => {
           </p>
           <button className="start-button" onClick={handleStart}>Let's Go</button>
           </div>
-          <img className="ck" src="/chessKingdom2.png" alt=""></img>
+          <img className="ck" src="https://res.cloudinary.com/dlbc9t2ft/image/upload/v1744737237/chessKingdom2_ie6ymg.png" alt=""></img>
         </div>
       </div>
     );
