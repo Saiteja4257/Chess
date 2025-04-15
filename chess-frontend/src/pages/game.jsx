@@ -15,7 +15,7 @@ const ChooseGameMode = () => {
         </button>
         
         <button className="game-button" onClick={() => navigate('/maingame')}>
-          <img src="https://res.cloudinary.com/dlbc9t2ft/image/upload/v1744743093/f_auto,q_auto/boychess_wi36yu.png" alt="Play vs Friend" />
+          <img src="https://res.cloudinary.com/dlbc9t2ft/image/upload/f_auto,q_auto/v1744743093/boychess_wi36yu.png" alt="Play vs Friend" />
           <br></br>
           <h2 className='option' >Play with Friend</h2>
         </button>
